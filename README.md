@@ -13,5 +13,3 @@ I also use such languages ​​and technologies as:
 - Swift
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesleysin&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-See my pet project at [DogGo organization page](https://github.com/DogGoOrg)
